@@ -5,10 +5,23 @@
 7
 8
 9
+function test(){
+	Console.log(111);
+}
 hahahha
 xixixi
+function a(){
+	Console.log(222);
+}
 github
 hahhaa
 sourcetree修改
 aaa
 bbb
+
+
+
+
+function b(){
+	Console.log(333);
+}
